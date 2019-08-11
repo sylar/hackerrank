@@ -1,6 +1,6 @@
 # Hackerrank Solutions
 
-A couple of solution to different problems I solved on hackerrank. At the moment most of them are in `JS`, but this will change.
+A couple of solution to different problems I solved on hackerrank. At the moment most of them are in `JS`, but this will change. I will update the repo as much and as frequent I can.
 
 ## Problems solved
 
@@ -18,6 +18,11 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Kangaroo](Implementation/kangaroo.js)                         | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)                            | Algorithms | Implementation | JS       |
 | [Between Two Sets](Implementation/between-two-sets.js)         | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)            | Algorithms | Implementation | JS       |
 | [Breaking The Records](Implementation/breaking-the-records.js) | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-the-records)    | Algorithms | Implementation | JS       |
+
+## Contributions
+
+If you have a better and more realiable implementation to any of the existing solutions don't hesitate to PR it. :+1:
+Kudos!
 
 ## License
 
