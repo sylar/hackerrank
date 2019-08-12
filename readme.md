@@ -19,6 +19,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Between Two Sets](Implementation/between-two-sets.js)         | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)            | Algorithms | Implementation | JS       |
 | [Breaking The Records](Implementation/breaking-the-records.js) | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-the-records)    | Algorithms | Implementation | JS       |
 | [Birthday Cholocate](Implementation/birthday-chocolate.js)     | [Birthday Cholocate](https://www.hackerrank.com/challengesbirthday-chocolate)         | Algorithms | Implementation | JS       |
+| [Divisible Sum Pairs](Implementation/divisible-sum-pairs.js)   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)      | Algorithms | Implementation | JS       |
 
 ## Contributions
 
