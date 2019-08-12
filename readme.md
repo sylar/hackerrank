@@ -18,6 +18,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Kangaroo](Implementation/kangaroo.js)                         | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)                            | Algorithms | Implementation | JS       |
 | [Between Two Sets](Implementation/between-two-sets.js)         | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)            | Algorithms | Implementation | JS       |
 | [Breaking The Records](Implementation/breaking-the-records.js) | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-the-records)    | Algorithms | Implementation | JS       |
+| [Birthday Cholocate](Implementation/birthday-chocolate.js)     | [Birthday Cholocate](https://www.hackerrank.com/challengesbirthday-chocolate)         | Algorithms | Implementation | JS       |
 
 ## Contributions
 
