@@ -22,6 +22,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Divisible Sum Pairs](Implementation/divisible-sum-pairs.js)     | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)      | Algorithms | Implementation | JS       |
 | [Migratory Birds](Implementation/migratory-birds.js)             | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)              | Algorithms | Implementation | JS       |
 | [Day Of The Programmer](Implementation/day-of-the-programmer.js) | [Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)  | Algorithms | Implementation | JS       |
+| [Bon Appetit](Implementation/bon-appetit.js)                     | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)                      | Algorithms | Implementation | JS       |
 
 ## Contributions
 
