@@ -25,6 +25,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Bon Appetit](Implementation/bon-appetit.js)                     | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)                      | Algorithms | Implementation | JS       |
 | [Sock Merchant](Implementation/sock-merchant.js)                 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)                  | Algorithms | Implementation | JS       |
 | [Drawing Book](Implementation/drawing-book.js)                   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)                    | Algorithms | Implementation | JS       |
+| [Counting Valleys](Implementation/counting-valleys.js)           | [Counting Valleys](https://www.hackerrank.com/challenges/drawing-book)                | Algorithms | Implementation | JS       |
 
 ## Contributions
 
