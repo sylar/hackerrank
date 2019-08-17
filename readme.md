@@ -27,6 +27,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Drawing Book](Implementation/drawing-book.js)                   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)                    | Algorithms | Implementation | JS       |
 | [Counting Valleys](Implementation/counting-valleys.js)           | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)            | Algorithms | Implementation | JS       |
 | [Electornics Shop](Implementation/electronics-shop.js)           | [Electornics Shop](https://www.hackerrank.com/challenges/electronics-shop)            | Algorithms | Implementation | JS       |
+| [Cats And A Mouse](Implementation/cats-and-a-mouse.js)           | [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)            | Algorithms | Implementation | JS       |
 
 ## Contributions
 
