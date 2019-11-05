@@ -28,6 +28,7 @@ A couple of solution to different problems I solved on hackerrank. At the moment
 | [Counting Valleys](Implementation/counting-valleys.js)           | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)            | Algorithms | Implementation | JS       |
 | [Electornics Shop](Implementation/electronics-shop.js)           | [Electornics Shop](https://www.hackerrank.com/challenges/electronics-shop)            | Algorithms | Implementation | JS       |
 | [Cats And A Mouse](Implementation/cats-and-a-mouse.js)           | [Cats And A Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)            | Algorithms | Implementation | JS       |
+| [Print Elements of a Linked List](Data Structures/Linked Lists/print-elements-of-a-linked-list.js)           | [Print Elements of a Linked List](https://www.hackerrank.com/challenges/print-elements-of-a-linked-list)            | Data Structures| Linked Lists | JS       |
 
 ## Contributions
 
